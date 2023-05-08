@@ -11,6 +11,13 @@ Provides an intuitive user interface with a clean and modern design.
 
 Implements asynchronous network operations to ensure smooth and responsive user experience.
 
+## Screenshots
+
+![Screenshot 2023-05-08 195438](https://user-images.githubusercontent.com/45867169/236961184-2ad38fe6-2c4e-4a4a-8c9e-d00533882dc7.png)
+
+![Screenshot 2023-05-08 195509](https://user-images.githubusercontent.com/45867169/236961198-38a08d60-4074-4da4-ba4a-0ad3335bfbd9.png)
+
+
 ## Installation
 Clone the repository: git clone https://github.com/nikhil16kulkarni/WeatherApp.git
 
